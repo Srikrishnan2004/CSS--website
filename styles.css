@@ -1,0 +1,81 @@
+body{
+    margin:0px;   
+}
+.body2{
+    color:lightblue;
+}
+.intro1{
+    font-weight:normal;
+}
+hr{
+    border-style:dotted none none none;
+    border-color:orangered;
+    border-width:5px;
+    width:50px;
+}
+.top{
+    background-color:#EAF6F6;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+    height:535x;
+    line-height:2;
+}
+.top_cloud{
+    position:relative;
+    left:900px;
+    top:30px;
+}
+.bottom_cloud{
+    position:relative;
+    left:300px;
+    bottom:300px;
+}
+.mountain{
+    position:relative;
+    left:250px;
+}
+h1{
+    padding:10px;
+}
+h2{
+    padding:10px;
+} 
+.photo{
+    height:300px;
+    width:300px;
+}
+.intro{
+    width:50%;
+    margin:auto;
+    text-align:left;
+    font-family:'Sacramento', cursive;
+    color:#40514E;
+}
+.text{
+    width:50%;
+    margin:auto;
+    text-align:center;
+    color:#40514E;
+}
+.skillspic{
+    width:15%;
+}
+.intro2{
+    width:50%;
+    margin:auto;
+    text-align:center;
+    font-family:'Sacramento', cursive;
+    color:#40514E;
+}
+.bottom{
+    margin:0px auto 0px auto;
+}
+.contact{
+    color:#66BFBF;
+    width:50%;
+    margin:auto;
+    text-align:center;
+}
+.form{
+    background-color:#66BFBF;
+}
